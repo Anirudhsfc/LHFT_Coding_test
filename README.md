@@ -3,14 +3,14 @@
 #Frontend
 Run the below commands to install npm packages and start the frontend.
 
-npm install
-npm start
+1. npm install
+2. npm start
 
 #Backend
 Run the below commands to install dependencies and then run the server.
 
-pip install -r requirements.txt
+1. pip install -r requirements.txt
 
-python3 server.py
+2. python3 server.py
 
 
